@@ -62,7 +62,7 @@ async def main(data: dict, tasks: list):
     return sections
 
 if __name__ == "__main__":
-    d = {'Url': "https://github.com/CavidRzayev/ibar_task/archive/refs/heads/master.zip",
+    d = {'Url': "https:...",
          'TargetPath': "5MB.zip",
          'TotalSections': 10}
     tasks = []
